@@ -1,1 +1,1 @@
-<h1>Welcome to demo Ansible Test Site.</h1>
+<h1>Welcome to demo Ansible Test Site</h1>
